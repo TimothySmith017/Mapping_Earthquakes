@@ -25,11 +25,11 @@ L.circle([34.0522, -118.2437], {
 // SKILLDRILL-
 
 // Using the circlemarker method
-L.circleMarker([34.0522, -118.2437], {
-    radius: 300,
-    color: 'black',
-    fillColor: '#ffffa1'
-}).addTo(map);
+//L.circleMarker([34.0522, -118.2437], {
+   // radius: 300,
+    //color: 'black',
+    //fillColor: '#ffffa1'
+//}).addTo(map);
 
 // An array containing each city's location, state, and population.
 let cities = [{
